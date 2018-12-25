@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Button_forecast">6-DAY FORECAST</string>
+</resources>
